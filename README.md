@@ -9,8 +9,14 @@
 - 📫 Contact me at jacob.white.07@gmail.com.
 
 ### Skills
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> Javascript </img>
-</br>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HMTL5 </img>
-</br>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3 </img>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
