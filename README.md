@@ -8,7 +8,7 @@
 - 💞️ I’m looking to get experience working on collaborative projects in the community.
 - 📫 Contact me at jacob.white.07@gmail.com.
 
-### Skills
+- ### Technologies and Tools
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
