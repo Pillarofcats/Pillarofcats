@@ -5,7 +5,7 @@
  - Contact me at jacob.white.07@gmail.com.
 
 ### Technologies and Tools
-> Hover over an icon to see the name
+> Hover over an icon to see the name <
 ---
 
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
