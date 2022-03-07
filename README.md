@@ -9,6 +9,8 @@
 - 📫 Contact me at jacob.white.07@gmail.com.
 
 ### Skills
+![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "##Javascript")
+
 <div align='center'>
   <div>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
