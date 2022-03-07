@@ -5,7 +5,6 @@
 - Looking for career opportunities to develop my skills further and gather industry experience
 
 ### Technologies and Tools
-> Hover over icon to see the name
 ---
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
@@ -21,7 +20,6 @@
 
 ### Portfolio
 ---
->Link to portfolio website
 [Portfolio](https://pages.github.com/)
 
 ### Contact
@@ -31,4 +29,4 @@ LinkedIn: link
 
 ### Thanks for your time
 ---
-![alt text](https://tenor.com/view/cat-cats-kingrora-black-cat-cat-playing-gif-24000463 "Thanks")
+![alt text](https://tenor.com/view/cat-cats-kingrora-black-cat-cat-playing-gif-24000463)
