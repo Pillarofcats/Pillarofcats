@@ -6,6 +6,7 @@
 
 ### Technologies and Tools
 ---
+*Hover over the icons to see the names*
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
@@ -20,13 +21,13 @@
 
 ### Portfolio Website
 ---
-[Portfolio](https://pages.github.com/)
+[Portfolio](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
 
 ### Contact and Social
 ---
-- Email: jacob.white.07@gmail.com
-- LinkedIn: L
+**Email:** Jacob.White.07@Gmail.com
+**LinkedIn:** [Jacob White](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
 
 ### Thanks for your time
 ---
-<img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="100" height="100" />
+<img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="130" height="130" />
