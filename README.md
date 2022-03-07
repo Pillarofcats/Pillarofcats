@@ -2,8 +2,7 @@
 ---
 - Striving to advance my skills as developer in the front-end and back-end
 - Currently learning back-end technologies and modules relating to node.js
-- I’m looking to get experience working on collaborative projects in the community
-- 
+- Looking for career opportunities to develop my skills further and gather industry experience
 
 ### Technologies and Tools
 > Hover over icon to see the name
@@ -29,3 +28,7 @@
 ---
 Email: jacob.white.07@gmail.com
 LinkedIn: link
+
+### Thanks for your time
+---
+![alt text](https://tenor.com/view/cat-cats-kingrora-black-cat-cat-playing-gif-24000463 "Thanks")
