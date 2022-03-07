@@ -29,4 +29,4 @@ LinkedIn: link
 
 ### Thanks for your time
 ---
-![alt text](https://tenor.com/view/cat-cats-kingrora-black-cat-cat-playing-gif-24000463)
+<img src="https://tenor.com/view/cat-cats-kingrora-black-cat-cat-playing-gif-24000463" width="40" height="40" />
