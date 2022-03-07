@@ -3,7 +3,7 @@
 - Currently learning back-end technologies and modules relating to node.js
 - Looking for career opportunities to develop my skills further and gather industry experience
 
-## :toolbox: Technologies and Tools  
+## :toolbox: Languages and Tools  
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
