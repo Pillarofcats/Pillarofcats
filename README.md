@@ -4,8 +4,9 @@
  - I’m looking to get experience working on collaborative projects in the community.
  - Contact me at jacob.white.07@gmail.com.
 
-- ### Technologies and Tools
-(Hover over an icon to see the name)
+### Technologies and Tools
+> Hover over an icon to see the name
+---
 
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
@@ -18,5 +19,3 @@
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png "Jest")
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
-
-hello
