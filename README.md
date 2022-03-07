@@ -18,14 +18,14 @@
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
 
-### Portfolio
+### Portfolio Website
 ---
 [Portfolio](https://pages.github.com/)
 
-### Contact
+### Contact and Social
 ---
-Email: jacob.white.07@gmail.com
-LinkedIn: link
+- Email: jacob.white.07@gmail.com
+- LinkedIn: L
 
 ### Thanks for your time
 ---
