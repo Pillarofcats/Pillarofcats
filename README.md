@@ -25,5 +25,5 @@
 
 - LinkedIn: [Jacob White](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
 
-## Thanks for your time
+## :vulcan_salute: Thanks for your time
 <img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="130" height="130" />
