@@ -11,12 +11,12 @@
 ### Skills
 <div align='center'>
   <div>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png">
     <p>Javascript</p>
     </img>
   </div>
   <div>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png">
     <p>HTML5</p>
     </img>
   </div>
