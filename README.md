@@ -7,3 +7,6 @@
 - 🌱 I’m currently learning node.js and back-end developer technologies.
 - 💞️ I’m looking to get experience working on collaborative projects in the community.
 - 📫 Contact me at jacob.white.07@gmail.com.
+
+### Skills
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
