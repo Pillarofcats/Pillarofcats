@@ -1,13 +1,13 @@
-### Hello, I am Jacob White
+### Hello, I'm Jacob White
 ---
-- I’m interested in developing my skills as a full-stack developer.
-- I’m currently learning node.js and back-end developer technologies.
-- I’m looking to get experience working on collaborative projects in the community.
-- Contact me at jacob.white.07@gmail.com.
+- Striving to advance my skills as developer in the front-end and back-end
+- Currently learning back-end technologies and modules relating to node.js
+- I’m looking to get experience working on collaborative projects in the community
+- 
 
 ### Technologies and Tools
+> Hover over icon to see the name
 ---
-
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
@@ -19,3 +19,13 @@
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png "Jest")
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
+
+### Portfolio
+---
+>Link to portfolio website
+[Portfolio](https://pages.github.com/)
+
+### Contact
+---
+Email: jacob.white.07@gmail.com
+LinkedIn: link
