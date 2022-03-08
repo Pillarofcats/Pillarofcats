@@ -15,6 +15,8 @@
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png "Jest")
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
+![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
+![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 
 ## :briefcase: Portfolio Website
 
