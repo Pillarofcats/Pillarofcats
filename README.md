@@ -19,6 +19,9 @@
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/git.png "Git")
 
+## :building_construction: Data Structures
+- [Implementation](https://github.com/Pillarofcats/js_data_structures)
+
 ## :briefcase: Portfolio Website
 - [Made from scratch](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
 
