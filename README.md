@@ -2,6 +2,7 @@
 - Striving to advance my skills as developer in the front-end and back-end
 - Currently learning back-end technologies and modules relating to node.js
 - Looking for career opportunities to develop my skills further and gather industry experience
+- Avid bread baker and puzzle solver
 
 ## :toolbox: Languages and Tools
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
