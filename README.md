@@ -24,11 +24,11 @@
 - [Implementation](https://github.com/Pillarofcats/js_data_structures)
 
 ## :briefcase: Portfolio Website
-- [Made from scratch](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
+- [Made from scratch](https://jacobwhite-dev.com)
 
 ## :mailbox_with_no_mail: Contact and Social
 - Email: Jacob.White.07@Gmail.com
-- LinkedIn: [Jacob White](https://github.com/Pillarofcats/Pillarofcats/blob/main/README.md)
+- LinkedIn: [Jacob White](http://www.linkedin.com/in/jacobwhite-dev)
 
 ## :vulcan_salute: Thanks for your time
 <img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="130" height="130" />
