@@ -1,6 +1,6 @@
 ## :handshake: Hello, I'm Jacob White
 - Striving to advance my skills as developer in the front-end and back-end
-- Currently learning back-end technologies and modules relating to node.js
+- Currently learning htmx and bun
 - Looking for career opportunities to develop my skills further and gather industry experience
 - Avid bread baker and puzzle solver
 
