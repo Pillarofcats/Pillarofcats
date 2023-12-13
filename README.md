@@ -4,7 +4,12 @@
 - Looking for career opportunities
 - Avid bread baker and puzzle solver
 
-## :toolbox: Languages and Tools
+## :star: Featured Projects
+- [Tribuy E-commerce](https://frontend-production-2a82.up.railway.app/products)
+- [Movie Cloud](https://nextjsmoviecloud-production.up.railway.app/login)
+- [Pathfinding Simulation](https://pathfindingalgorithms-production.up.railway.app/)
+
+## :toolbox: Languages and Technologies
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
@@ -28,11 +33,11 @@
 - [Implementation](https://github.com/Pillarofcats/js_data_structures)
 
 ## :briefcase: Portfolio Website
-- [Made from scratch](https://jacobwhite-dev.com)
+- [jacobwhite-dev.com](https://jacobwhite-dev.com)
 
 ## :mailbox_with_no_mail: Contact and Social
 - Email: Jacob.White.07@Gmail.com
 - LinkedIn: [Jacob White](http://www.linkedin.com/in/jacobwhite-dev)
 
-## :vulcan_salute: Thanks for your time
-<img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="130" height="130" />
+## :vulcan_salute: Thank You For Your Time
+<img src="https://c.tenor.com/1Q8t-_MP0YMAAAAC/cat-cats.gif" width="100" height="100" />
