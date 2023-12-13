@@ -20,7 +20,7 @@
 ![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-color-tal-revivo.png "D3js")
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png "Jest")
-![alt text](https://img.icons8.com/color/48/000000/docker.png "Docker")
+![alt text](https://img.icons8.com/color/48/000000/cdYUlRaag9G9/docker.png "Docker")
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/git.png "Git")
 
