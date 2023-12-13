@@ -1,7 +1,7 @@
 ## :handshake: Hello, I'm Jacob White
 - Striving to advance my skills as developer in the front-end and back-end
-- Currently learning htmx, and working on an AWS certification
-- Looking for career opportunities to develop my skills further and gather industry experience
+- Currently working on an AWS certification
+- Looking for career opportunities
 - Avid bread baker and puzzle solver
 
 ## :toolbox: Languages and Tools
@@ -19,7 +19,7 @@
 ![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
 ![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 ![alt text](https://img.icons8.com/?size=40&id=GE6eMUbWbBDw&format=png "D3js")
-![alt text](https://img.icons8.com/?size=44&id=bp24DwGXJDyT&format=png "Jest")
+![alt text](https://img.icons8.com/?size=38&id=bp24DwGXJDyT&format=png "Jest")
 ![alt text](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png "Docker")
 ![alt text](https://img.icons8.com/color/48/000000/npm.png "Npm")
 ![alt text](https://img.icons8.com/color/48/000000/git.png "Git")
