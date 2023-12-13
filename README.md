@@ -15,7 +15,7 @@
 ![alt text](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
 ![alt text](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB")
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
-![alt text](https://img.icons8.com/color/48/000000/c-sharp-logo.png "C#")
+![alt text](https://img.icons8.com/?size=64&id=Fycm8TUhWmFU&format=png "C#")
 ![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
 ![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 ![alt text](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-d3js-a-javascript-library-for-producing-dynamic-interactive-data-visualizations-in-web-browsers-logo-color-tal-revivo.png "D3js")
