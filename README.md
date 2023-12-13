@@ -1,5 +1,5 @@
 ## :handshake: Hello, I'm Jacob White
-- Striving to advance my skills as developer in the front-end and back-end
+- Striving to advance my skills as a developer
 - Currently working on an AWS certification
 - Looking for career opportunities
 - Avid bread baker and puzzle solver
@@ -13,7 +13,7 @@
 ![alt text](https://img.icons8.com/color/48/000000/tailwindcss.png "Tailwindcss")
 ![alt text](https://img.icons8.com/fluency/48/000000/node-js.png "Node.js")
 ![alt text](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
-![alt text](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB")
+![alt text](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB") \
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
 ![alt text](https://img.icons8.com/?size=48&id=Fycm8TUhWmFU&format=png "C#")
 ![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
