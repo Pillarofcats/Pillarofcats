@@ -9,6 +9,7 @@
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
 ![alt text](https://img.icons8.com/color/48/000000/react-native.png "React")
+![alt text](https://img.icons8.com/color/48/000000/tailwindcss.png "Tailwindcss")
 ![alt text](https://img.icons8.com/fluency/48/000000/node-js.png "Node.js")
 ![alt text](https://img.icons8.com/color/48/000000/postgreesql.png "PostgreSQL")
 ![alt text](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB")
