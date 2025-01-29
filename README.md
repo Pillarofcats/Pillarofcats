@@ -1,7 +1,7 @@
 ## :handshake: Hello, I'm Jacob White
-- Striving to advance my skills as a developer
-- Currently working on an AWS certification
-- Looking for career opportunities
+- Learning software system design
+- Software developer with UI/UX web experience
+- Looking for new opportunities
 - Avid bread baker and puzzle solver
 
 ## :star: Featured Projects
@@ -10,6 +10,8 @@
 - [Pathfinding Simulation](https://pathfindingalgorithms-production.up.railway.app/)
 
 ## :toolbox: Languages and Technologies
+![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
+![alt text](https://img.icons8.com/?size=48&id=47039&format=png&color=FFFFFF "Qt Design")
 ![alt text](https://img.icons8.com/color/48/000000/javascript--v1.png "Javascript")
 ![alt text](https://img.icons8.com/color/48/000000/html-5--v1.png "HTML5")
 ![alt text](https://img.icons8.com/color/48/000000/css3.png "CSS3")
@@ -21,7 +23,6 @@
 ![alt text](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB") \
 ![alt text](https://img.icons8.com/color/48/000000/typescript.png "Typescript")
 ![alt text](https://img.icons8.com/?size=48&id=Fycm8TUhWmFU&format=png "C#")
-![alt text](https://img.icons8.com/fluency/48/000000/python.png "Python")
 ![alt text](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
 ![alt text](https://img.icons8.com/?size=40&id=GE6eMUbWbBDw&format=png "D3js")
 ![alt text](https://img.icons8.com/?size=38&id=bp24DwGXJDyT&format=png "Jest")
